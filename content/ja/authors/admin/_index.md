@@ -9,7 +9,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 情報理工・情報通信専攻 博士課程3年
+role: 情報理工・情報通信専攻 博士課程
 
 # Organizations/Affiliations
 organizations:
@@ -27,11 +27,11 @@ interests:
 
 education:
   courses:
-  - course: 修士（工学）（情報理工・情報通信専攻）
-    institution: 早稲田大学
+  - course: 修士（工学）
+    institution: 早稲田大学 基幹理工学研究科 情報理工・情報通信専攻
     year: 2017
-  - course: 学士（工学）（情報理工学科）
-    institution: Waseda University
+  - course: 学士（工学）
+    institution: 早稲田大学 基幹理工学部 情報理工学科
     year: 2016
 
 hobbies:
