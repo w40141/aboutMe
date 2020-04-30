@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "職歴"
+# subtitle = "職歴"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -26,4 +26,12 @@ date_format = "Jan 2006"
   date_end = ""
   description = """集積回路に対するスキャンベース攻撃手法と防御手法に関する研究"""
 
+[[en.home.experience]]
+  title = "JSPS 特別研究員（DC2）"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2020-04-01"
+  date_end = ""
+  description = """集積回路に対するスキャンベース攻撃手法と防御手法に関する研究"""
 +++

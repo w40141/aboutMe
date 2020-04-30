@@ -1,0 +1,1 @@
+../../ja/home/posts.md

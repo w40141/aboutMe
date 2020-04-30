@@ -2,8 +2,6 @@
 # Display name
 name: Daisuke Oku
 
-
-
 # Username (this should match the folder name)
 authors:
 - admin
