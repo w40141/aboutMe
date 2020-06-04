@@ -34,9 +34,6 @@ education:
     institution: 早稲田大学 基幹理工学部 情報理工学科
     year: 2016
 
-hobbies:
-- 将棋
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -45,15 +42,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/wxy40
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/wxy40
+  link: https://www.facebook.com/daisuke.oku.75
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=phunRgcAAAAJ&hl=ja
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/w40141
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-8611-9624
