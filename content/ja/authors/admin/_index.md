@@ -50,7 +50,7 @@ social:
   link: https://twitter.com/wxy40
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=phunRgcAAAAJ&hl=ja
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
