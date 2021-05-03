@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>松田 佳希 | About Me</title>
-    <link>https://w40141.github.io/authors/%E6%9D%BE%E7%94%B0-%E4%BD%B3%E5%B8%8C/</link>
-      <atom:link href="https://w40141.github.io/authors/%E6%9D%BE%E7%94%B0-%E4%BD%B3%E5%B8%8C/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://w40141.github.io/aboutMe/authors/%E6%9D%BE%E7%94%B0-%E4%BD%B3%E5%B8%8C/</link>
+      <atom:link href="https://w40141.github.io/aboutMe/authors/%E6%9D%BE%E7%94%B0-%E4%BD%B3%E5%B8%8C/index.xml" rel="self" type="application/rss+xml" />
     <description>松田 佳希</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Daisuke Oku</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://w40141.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://w40141.github.io/aboutMe/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>松田 佳希</title>
-      <link>https://w40141.github.io/authors/%E6%9D%BE%E7%94%B0-%E4%BD%B3%E5%B8%8C/</link>
+      <link>https://w40141.github.io/aboutMe/authors/%E6%9D%BE%E7%94%B0-%E4%BD%B3%E5%B8%8C/</link>
     </image>
     
     <item>
       <title>SAベースのイジングマシンにより巡回セールスマン問題を高速解法するための多種軽量係数試行法</title>
-      <link>https://w40141.github.io/publication/2019-hs/</link>
+      <link>https://w40141.github.io/aboutMe/publication/2019-hs/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://w40141.github.io/publication/2019-hs/</guid>
+      <guid>https://w40141.github.io/aboutMe/publication/2019-hs/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M Tawada | About Me</title>
-    <link>https://w40141.github.io/authors/m-tawada/</link>
-      <atom:link href="https://w40141.github.io/authors/m-tawada/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://w40141.github.io/aboutMe/authors/m-tawada/</link>
+      <atom:link href="https://w40141.github.io/aboutMe/authors/m-tawada/index.xml" rel="self" type="application/rss+xml" />
     <description>M Tawada</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Daisuke Oku</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://w40141.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://w40141.github.io/aboutMe/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>M Tawada</title>
-      <link>https://w40141.github.io/authors/m-tawada/</link>
+      <link>https://w40141.github.io/aboutMe/authors/m-tawada/</link>
     </image>
     
     <item>
       <title>Efficient Ising Model Mapping to Solving Slot Placement Problem</title>
-      <link>https://w40141.github.io/publication/kanamaru-2019-yj/</link>
+      <link>https://w40141.github.io/aboutMe/publication/kanamaru-2019-yj/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://w40141.github.io/publication/kanamaru-2019-yj/</guid>
+      <guid>https://w40141.github.io/aboutMe/publication/kanamaru-2019-yj/</guid>
       <description></description>
     </item>
     

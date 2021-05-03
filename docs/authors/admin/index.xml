@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daisuke Oku | About Me</title>
-    <link>https://w40141.github.io/authors/admin/</link>
-      <atom:link href="https://w40141.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://w40141.github.io/aboutMe/authors/admin/</link>
+      <atom:link href="https://w40141.github.io/aboutMe/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Daisuke Oku</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Daisuke Oku</copyright>
     <image>
-      <url>https://w40141.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://w40141.github.io/aboutMe/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Daisuke Oku</title>
-      <link>https://w40141.github.io/authors/admin/</link>
+      <link>https://w40141.github.io/aboutMe/authors/admin/</link>
     </image>
     
   </channel>
