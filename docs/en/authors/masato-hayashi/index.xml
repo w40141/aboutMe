@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masato Hayashi | About Me</title>
+    <link>https://w40141.github.io/en/authors/masato-hayashi/</link>
+      <atom:link href="https://w40141.github.io/en/authors/masato-hayashi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Masato Hayashi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daisuke Oku</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://w40141.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Masato Hayashi</title>
+      <link>https://w40141.github.io/en/authors/masato-hayashi/</link>
+    </image>
+    
+    <item>
+      <title>A Fully-Connected Ising Model Embedding Method and Its Evaluation for CMOS Annealing Machines</title>
+      <link>https://w40141.github.io/en/publication/oku-2019-up/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/en/publication/oku-2019-up/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

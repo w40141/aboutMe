@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Togawa | About Me</title>
+    <link>https://w40141.github.io/authors/n-togawa/</link>
+      <atom:link href="https://w40141.github.io/authors/n-togawa/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Togawa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Daisuke Oku</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://w40141.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>N Togawa</title>
+      <link>https://w40141.github.io/authors/n-togawa/</link>
+    </image>
+    
+    <item>
+      <title>A Multiple Coefficients Trial Method to Solve Combinatorial Optimization Problems for Simulated-annealing-based Ising Machines</title>
+      <link>https://w40141.github.io/publication/takehara-2019-ih/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/publication/takehara-2019-ih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Ising Model Mapping to Solving Slot Placement Problem</title>
+      <link>https://w40141.github.io/publication/kanamaru-2019-yj/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/publication/kanamaru-2019-yj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Ising model mapping to solve rectangle packing problem</title>
+      <link>https://w40141.github.io/publication/terada-2018-vm/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/publication/terada-2018-vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A robust scan-based side-channel attack method against HMAC-SHA-256 circuits</title>
+      <link>https://w40141.github.io/publication/oku-2017-fk/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/publication/oku-2017-fk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation evaluation of scan-based attack against a Trivium cipher circuit</title>
+      <link>https://w40141.github.io/publication/oku-2016-ng/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/publication/oku-2016-ng/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

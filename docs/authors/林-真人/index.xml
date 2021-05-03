@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> 林 真人 | About Me</title>
+    <link>https://w40141.github.io/authors/%E6%9E%97-%E7%9C%9F%E4%BA%BA/</link>
+      <atom:link href="https://w40141.github.io/authors/%E6%9E%97-%E7%9C%9F%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <description> 林 真人</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Daisuke Oku</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://w40141.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title> 林 真人</title>
+      <link>https://w40141.github.io/authors/%E6%9E%97-%E7%9C%9F%E4%BA%BA/</link>
+    </image>
+    
+    <item>
+      <title>イジング計算機によるスロット配置問題の解法 (システム数理と応用)</title>
+      <link>https://w40141.github.io/publication/2018-ms/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/publication/2018-ms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

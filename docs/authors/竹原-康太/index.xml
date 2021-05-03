@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>竹原 康太 | About Me</title>
+    <link>https://w40141.github.io/authors/%E7%AB%B9%E5%8E%9F-%E5%BA%B7%E5%A4%AA/</link>
+      <atom:link href="https://w40141.github.io/authors/%E7%AB%B9%E5%8E%9F-%E5%BA%B7%E5%A4%AA/index.xml" rel="self" type="application/rss+xml" />
+    <description>竹原 康太</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Daisuke Oku</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://w40141.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>竹原 康太</title>
+      <link>https://w40141.github.io/authors/%E7%AB%B9%E5%8E%9F-%E5%BA%B7%E5%A4%AA/</link>
+    </image>
+    
+    <item>
+      <title>SAベースのイジングマシンにより巡回セールスマン問題を高速解法するための多種軽量係数試行法</title>
+      <link>https://w40141.github.io/publication/2019-hs/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/publication/2019-hs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
