@@ -23,6 +23,15 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2020-04-01"
-  date_end = ""
+  date_end = "2020-09-15"
+  description = """集積回路に対するスキャンベース攻撃手法と防御手法に関する研究"""
+
+[[experience]]
+  title = "JSPS Research Fellowship (DC2)"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2020-09-16"
+  date_end = "2021-03-31"
   description = """集積回路に対するスキャンベース攻撃手法と防御手法に関する研究"""
 +++

@@ -23,15 +23,24 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2020-04-01"
-  date_end = ""
+  date_end = "2020-09-15"
   description = """集積回路に対するスキャンベース攻撃手法と防御手法に関する研究"""
 
-[[en.home.experience]]
-  title = "JSPS 特別研究員（DC2）"
+[[experience]]
+  title = "日本学術振興会 特別研究員（PD）"
   company = ""
   company_url = ""
   location = ""
-  date_start = "2020-04-01"
-  date_end = ""
+  date_start = "2020-09-16"
+  date_end = "2021-03-31"
   description = """集積回路に対するスキャンベース攻撃手法と防御手法に関する研究"""
+
+[[experience]]
+  title = "どこかの企業"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2021-04-01"
+  date_end = ""
+  description = """製品導入コンサルタント"""
 +++

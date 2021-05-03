@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Daisuke Oku
+title: Daisuke Oku
 
 # Username (this should match the folder name)
 authors:
@@ -9,16 +9,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student in Computer Science and Communications Engineering
+role: General employee
 
 # Organizations/Affiliations
 organizations:
-- name: Waseda University
-  url: "https://www.waseda.jp/top/en/"
+- name: Somewhere company
+  # url: "https://www.waseda.jp/top/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include hardware Security, side-channel attack, quantum annealing, and Ising model transformation.
-
+bio: Under employment
 interests:
 - Hardware Security
 - Side-channel Attack
@@ -27,6 +26,9 @@ interests:
 
 education:
   courses:
+  - course: D. Eng. in Computer Science and Communications Engineering
+    institution: Waseda University
+    year: 2020
   - course: M. Eng. in Computer Science and Communications Engineering
     institution: Waseda University
     year: 2017
@@ -70,12 +72,13 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
-I am a Ph.D. student in
-[Computer Science and Communications Engineering at Waseda University](https://www.fse.sci.waseda.ac.jp/en/)
-and I had been funded by [JSPS Research Fellowship](https://www.jsps.go.jp/english/e-pd/index.html) (DC2). 
+A person who has a Dr Eng. degree but cannot make use of it at all.
+I want to eat food from all over the world and live on a super public bath in the future.
+I have been podcasting called "Zatudan 72%".
+I Graduated from Doctoral Program in Department of Computer Science and Communications Engineering,
+Waseda University, and I had been funded by
+[JSPS Research Fellowship](https://www.jsps.go.jp/english/e-pd/index.html) (DC2 and PD). 
 My research interests include hardware Security, side-channel attack,
 quantum annealing, and Ising model transformation.
-I'm currently job searching.
