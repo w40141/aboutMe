@@ -6,13 +6,13 @@
 [ja]
   languageCode = "ja"
   contentDir = "content/ja"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  title = "About Me"
+  # title = "About Me"
   weight = 10
 
 [en]
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  title = "About Me"
+  # title = "About Me"
   weight = 20
 
   # [[en.menu.main]]
