@@ -1,21 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: A Fully-Connected Ising Model Embedding Method and Its Evaluation for CMOS
-  Annealing Machines
+title: 情報処理学会 システム LSI 設計技術研究会 優秀発表学生賞
 subtitle: ''
 summary: ''
 authors:
-- Daisuke Oku
-- Kotaro Terada
-- Masato Hayashi
-- Masanao Yamaoka
-- Shu Tanaka
-- Nozomu Togawa
+- 太祐 於久
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2021-05-08T13:35:58+09:00
+date: '2017-08-01'
 featured: false
 draft: false
 
@@ -33,10 +26,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-08T04:35:57.951016Z'
+publishDate: '2021-05-08T04:35:57.670439Z'
 publication_types:
-- '2'
-abstract: ''
-publication: '*IEICE Trans. Inf. Syst.*'
-doi: 10.1587/transinf.2018EDP7411
+- '1'
 ---
