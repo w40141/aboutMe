@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>望 戸川 | About</title>
+    <link>https://w40141.github.io/aboutMe/en/authors/%E6%9C%9B-%E6%88%B8%E5%B7%9D/</link>
+      <atom:link href="https://w40141.github.io/aboutMe/en/authors/%E6%9C%9B-%E6%88%B8%E5%B7%9D/index.xml" rel="self" type="application/rss+xml" />
+    <description>望 戸川</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daisuke Oku</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://w40141.github.io/aboutMe/images/icon_hu9ca95a05992ddae00e00194281753259_97112_512x512_fill_lanczos_center_2.png</url>
+      <title>望 戸川</title>
+      <link>https://w40141.github.io/aboutMe/en/authors/%E6%9C%9B-%E6%88%B8%E5%B7%9D/</link>
+    </image>
+    
+    <item>
+      <title>SAベースのイジングマシンにより巡回セールスマン問題を高速解法するための多種軽量係数試行法</title>
+      <link>https://w40141.github.io/aboutMe/en/publication/2019-hs/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/aboutMe/en/publication/2019-hs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>鍵長128ビット，192ビット，256ビットの軽量暗号CLEFIAに対するスキャンベース攻撃手法</title>
+      <link>https://w40141.github.io/aboutMe/en/publication/2018-rw/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/aboutMe/en/publication/2018-rw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>スキャンシグネチャを用いた周辺回路を含む軽量暗号CLEFIAに対するスキャンベース攻撃</title>
+      <link>https://w40141.github.io/aboutMe/en/publication/2017-ek/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/aboutMe/en/publication/2017-ek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>連続してハッシュ値を出力しないHMAC-SHA-256回路へのスキャンベース攻撃手法</title>
+      <link>https://w40141.github.io/aboutMe/en/publication/2017-sf/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/aboutMe/en/publication/2017-sf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>スキャンシグネチャを用いたスキャンデータ解析に基づくHMAC-SHA-256ハッシュ回路のスキャンベース攻撃</title>
+      <link>https://w40141.github.io/aboutMe/en/publication/2016-gf/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/aboutMe/en/publication/2016-gf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

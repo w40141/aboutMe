@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards | About</title>
+    <link>https://w40141.github.io/aboutMe/award/</link>
+      <atom:link href="https://w40141.github.io/aboutMe/award/index.xml" rel="self" type="application/rss+xml" />
+    <description>Awards</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Daisuke Oku</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://w40141.github.io/aboutMe/images/icon_hu9ca95a05992ddae00e00194281753259_97112_512x512_fill_lanczos_center_2.png</url>
+      <title>Awards</title>
+      <link>https://w40141.github.io/aboutMe/award/</link>
+    </image>
+    
+    <item>
+      <title>ICCE-Berlin 2017 Best Paper</title>
+      <link>https://w40141.github.io/aboutMe/award/2017-gf/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/aboutMe/award/2017-gf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>情報処理学会 システム LSI 設計技術研究会 優秀発表学生賞</title>
+      <link>https://w40141.github.io/aboutMe/award/2016-gf/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/aboutMe/award/2016-gf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

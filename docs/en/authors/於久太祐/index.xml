@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> 於久太祐 | About</title>
+    <link>https://w40141.github.io/aboutMe/en/authors/%E6%96%BC%E4%B9%85%E5%A4%AA%E7%A5%90/</link>
+      <atom:link href="https://w40141.github.io/aboutMe/en/authors/%E6%96%BC%E4%B9%85%E5%A4%AA%E7%A5%90/index.xml" rel="self" type="application/rss+xml" />
+    <description> 於久太祐</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daisuke Oku</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://w40141.github.io/aboutMe/images/icon_hu9ca95a05992ddae00e00194281753259_97112_512x512_fill_lanczos_center_2.png</url>
+      <title> 於久太祐</title>
+      <link>https://w40141.github.io/aboutMe/en/authors/%E6%96%BC%E4%B9%85%E5%A4%AA%E7%A5%90/</link>
+    </image>
+    
+    <item>
+      <title>イジング計算機によるスロット配置問題の解法 (システム数理と応用)</title>
+      <link>https://w40141.github.io/aboutMe/en/publication/2018-ms/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/aboutMe/en/publication/2018-ms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trivium 暗号回路に対するスキャンベース攻撃の実装評価 (VLSI 設計技術)</title>
+      <link>https://w40141.github.io/aboutMe/en/publication/2016-kx/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/aboutMe/en/publication/2016-kx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

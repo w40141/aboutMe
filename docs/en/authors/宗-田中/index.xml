@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>宗 田中 | About</title>
+    <link>https://w40141.github.io/aboutMe/en/authors/%E5%AE%97-%E7%94%B0%E4%B8%AD/</link>
+      <atom:link href="https://w40141.github.io/aboutMe/en/authors/%E5%AE%97-%E7%94%B0%E4%B8%AD/index.xml" rel="self" type="application/rss+xml" />
+    <description>宗 田中</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daisuke Oku</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://w40141.github.io/aboutMe/images/icon_hu9ca95a05992ddae00e00194281753259_97112_512x512_fill_lanczos_center_2.png</url>
+      <title>宗 田中</title>
+      <link>https://w40141.github.io/aboutMe/en/authors/%E5%AE%97-%E7%94%B0%E4%B8%AD/</link>
+    </image>
+    
+    <item>
+      <title>SAベースのイジングマシンにより巡回セールスマン問題を高速解法するための多種軽量係数試行法</title>
+      <link>https://w40141.github.io/aboutMe/en/publication/2019-hs/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/aboutMe/en/publication/2019-hs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,7 +7,7 @@
     <description>About</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Daisuke Oku</copyright><lastBuildDate>Thu, 30 Apr 2020 11:14:14 +0900</lastBuildDate>
     <image>
-      <url>https://w40141.github.io/aboutMe/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://w40141.github.io/aboutMe/images/icon_hu9ca95a05992ddae00e00194281753259_97112_512x512_fill_lanczos_center_2.png</url>
       <title>About</title>
       <link>https://w40141.github.io/aboutMe/</link>
     </image>
@@ -25,6 +25,14 @@
       <link>https://w40141.github.io/aboutMe/project/zatudan_72/</link>
       <pubDate>Thu, 30 Apr 2020 11:14:14 +0900</pubDate>
       <guid>https://w40141.github.io/aboutMe/project/zatudan_72/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Reduce the Bit-width of an Ising Model by Adding Auxiliary Spins</title>
+      <link>https://w40141.github.io/aboutMe/publication/2020-as/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/aboutMe/publication/2020-as/</guid>
       <description></description>
     </item>
     
@@ -101,10 +109,26 @@
     </item>
     
     <item>
+      <title>ICCE-Berlin 2017 Best Paper</title>
+      <link>https://w40141.github.io/aboutMe/award/2017-gf/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/aboutMe/award/2017-gf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>スキャンシグネチャを用いた周辺回路を含む軽量暗号CLEFIAに対するスキャンベース攻撃</title>
       <link>https://w40141.github.io/aboutMe/publication/2017-ek/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://w40141.github.io/aboutMe/publication/2017-ek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>情報処理学会 システム LSI 設計技術研究会 優秀発表学生賞</title>
+      <link>https://w40141.github.io/aboutMe/award/2016-gf/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://w40141.github.io/aboutMe/award/2016-gf/</guid>
       <description></description>
     </item>
     
