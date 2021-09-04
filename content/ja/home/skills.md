@@ -18,48 +18,48 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "70%"  
+  description = "70%"
 
 [[feature]]
   icon = "git-alt"
   icon_pack = "fab"
   name = "Git"
-  description = "40%"  
+  description = "40%"
 
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "40%"  
+  description = "40%"
 
 [[feature]]
   icon = "js-square"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "25%"  
+  description = "25%"
 
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "20%"  
+  description = "20%"
 
 [[feature]]
   icon = "react"
   icon_pack = "fab"
   name = "React"
-  description = "15%"  
+  description = "15%"
 
 [[feature]]
   icon = "haskell"
   icon_pack = "custom"
   name = "Haskell"
-  description = "15%"  
+  description = "15%"
 
 [[feature]]
   icon = "elixir"
   icon_pack = "custom"
   name = "Elixir"
-  description = "15%"  
+  description = "15%"
 
 +++
