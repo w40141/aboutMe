@@ -50,4 +50,16 @@ subtitle = ""
   name = "React"
   description = "15%"  
 
+[[feature]]
+  icon = "haskell"
+  icon_pack = "custom"
+  name = "Haskell"
+  description = "15%"  
+
+[[feature]]
+  icon = "elixir"
+  icon_pack = "custom"
+  name = "Elixir"
+  description = "15%"  
+
 +++
