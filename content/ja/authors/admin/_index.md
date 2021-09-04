@@ -4,7 +4,7 @@ title: Daisuke Oku
 
 # Username (this should match the folder name)
 authors:
-- admin
+  - admin
 # Is this the primary user of the site?
 superuser: true
 
@@ -13,50 +13,50 @@ role: 一般社員
 
 # Organizations/Affiliations
 organizations:
-- name: どこかの企業
-  # url: "https://www.waseda.jp/top/"
+  - name: どこかの企業
+    # url: "https://www.waseda.jp/top/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: いいところを探している
 
 interests:
-- ハードウェアセキュリティ
-- サイドチャネル攻撃
-- 量子アニーリング関連技術
-- イジングモデル変換
+  - ハードウェアセキュリティ
+  - サイドチャネル攻撃
+  - 量子アニーリング関連技術
+  - イジングモデル変換
 
 education:
   courses:
-  - course: 博士（工学）
-    institution: 早稲田大学 基幹理工学研究科 情報理工・情報通信専攻
-    year: 2020
-  - course: 修士（工学）
-    institution: 早稲田大学 基幹理工学研究科 情報理工・情報通信専攻
-    year: 2017
-  - course: 学士（工学）
-    institution: 早稲田大学 基幹理工学部 情報理工学科
-    year: 2016
+    - course: 博士（工学）
+      institution: 早稲田大学 基幹理工学研究科 情報理工・情報通信専攻
+      year: 2020
+    - course: 修士（工学）
+      institution: 早稲田大学 基幹理工学研究科 情報理工・情報通信専攻
+      year: 2017
+    - course: 学士（工学）
+      institution: 早稲田大学 基幹理工学部 情報理工学科
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/daisuke.oku.75
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=phunRgcAAAAJ&hl=ja
-- icon: github
-  icon_pack: fab
-  link: https://github.com/w40141
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0001-8611-9624
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact" # For a direct email link, use "mailto:test@example.org".
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/daisuke.oku.75
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=phunRgcAAAAJ&hl=ja
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/w40141
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0001-8611-9624
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/wxy40
@@ -72,16 +72,16 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+  - Researchers
 ---
 
-博士（工学）をとったけど、全然活かせてない人。
+エンジニア。ハードウェアセキュリティと量子アニーリングの研究をして博士（工学）を取得。
 世界中の料理を食べて、将来はスーパー銭湯の上に住みたい。
-いきなりカレーを作りに行ったり、
-[雑談７２％](https://open.spotify.com/show/32szHs4IbCOb4GWW8cduKh)というPodcastをやってます。
+Python が書けます。カレー作りを生きがいにしたい。
+[雑談７２％](https://open.spotify.com/show/32szHs4IbCOb4GWW8cduKh)という Podcast をやってます。
 早稲田大学 [基幹理工学研究科](https://www.fse.sci.waseda.ac.jp/)
 情報理工・情報通信専攻博士後期課程を卒業、
 日本学術振興会 [特別研究員（DC2, PD）](https://www.jsps.go.jp/j-pd/pd_saiyoichiran.html)でした。
 趣味は将棋、スポーツ観戦、料理を人に振る舞う、落語・講談鑑賞。
 研究してた分野はハードウェアセキュリティ、サイドチャネル攻撃、量子アニーリング関連技術、イジングモデル変換です。
-現在、就職活動中。
+毎月本を読み、毎年新しい言語を学びたい。今年は JS/Elixir/Java を勉強する。
